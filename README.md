@@ -1,0 +1,2 @@
+# Whitepaper
+Our 82-page comprehensive whitepaper explains the tokenomics of $VIGNE and how each subsidiary interacts within the association.
